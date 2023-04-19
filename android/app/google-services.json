@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853236596985",
+    "project_id": "fir-tutorial-ca411",
+    "storage_bucket": "fir-tutorial-ca411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853236596985:android:7b1f5b1be659a6ae57a228",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853236596985-8k8jfkpjkshufnu06a4f1uneqidcjkjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfW3uZLUdjxf-BwBIWhAjKRWJaWz1KsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853236596985-8k8jfkpjkshufnu06a4f1uneqidcjkjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
